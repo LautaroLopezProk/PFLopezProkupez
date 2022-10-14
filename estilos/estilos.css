@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.buttonformat{
+
+    height: 20%;
+    width: 30%;
+    background-color: rgb(145, 40, 40);
+   
+    border: none;
+}
+
+.buttonformat:hover {   
+
+        height: 20%;
+        width: 30%;
+        background-color: rgb(71, 9, 129);
+        
+        
+}
