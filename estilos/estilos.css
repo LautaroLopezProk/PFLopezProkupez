@@ -6,10 +6,9 @@
 
 .buttonformat{
 
-    height: 20%;
+    height: 10%;
     width: 30%;
     background-color: rgb(145, 40, 40);
-   
     border: none;
 }
 
@@ -18,6 +17,7 @@
         height: 20%;
         width: 30%;
         background-color: rgb(71, 9, 129);
+        
         
         
 }
