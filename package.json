@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LautaroLopezProk/PreEntrega2LopezProkupez.git"
+    "url": "git+https://github.com/LautaroLopezProk/PreEntrega3LopezProkupez.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LautaroLopezProk/PreEntrega2LopezProkupez/issues"
+    "url": "https://github.com/LautaroLopezProk/PreEntrega3LopezProkupez/issues"
   },
-  "homepage": "https://github.com/LautaroLopezProk/PreEntrega2LopezProkupez#readme",
+  "homepage": "https://github.com/LautaroLopezProk/PreEntrega3LopezProkupez#readme",
   "devDependencies": {
     "node-sass": "^7.0.3",
     "nodemon": "^2.0.20"
