@@ -1,12 +1,13 @@
 .buttonformat {
   height: 10%;
-  width: 25%;
+  width: 15%;
   background-color: #912828;
   border: none; }
   .buttonformat:hover {
-    height: 20%;
-    width: 30%;
     background-color: #470981; }
+  @media (max-width: 991px) {
+    .buttonformat {
+      width: 35%; } }
 
 .buttonformat2 {
   background-color: #912828;
