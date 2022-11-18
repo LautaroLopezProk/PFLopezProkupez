@@ -1,6 +1,12 @@
-.buttonformat {
+.size1 {
   height: 10%;
-  width: 15%;
+  width: 15%; }
+
+.size2 {
+  height: 12%;
+  width: 17%; }
+
+.buttonformat {
   background-color: #912828;
   border: none; }
   .buttonformat:hover {
